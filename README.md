@@ -1,5 +1,5 @@
 # Collaborative-Whiteboard
-A real-time web-based collaboration whiteboard taht allows multiple users to draw on a canvas concurrently, where each user is assigned a random colour.
+A real-time web-based collaboration whiteboard that allows multiple users to draw on a canvas concurrently, where each user is assigned a random colour.
 
   ![image](https://github.com/user-attachments/assets/383bbe61-5bf4-42e5-a3ed-cbee4c38b3bc)
 
